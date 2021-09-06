@@ -9,6 +9,7 @@ h2{
 h1{
 	font-family: 'Montserrat', sans-serif;
 	color: #E8DAEF;
+	font-size: 70px;
 }
 img{
 	width: 350px;
@@ -53,6 +54,7 @@ p{
 	color: #EDBB99;
 	font-family: font-family: 'Acme', sans-serif;
 	font-weight: bolder; 
+	font-size: 20px;
 
 }
 
@@ -67,6 +69,10 @@ html{
 .nav-link {
 	font-weight: bold;
 }
+
 .jumbotron {
 	background-color: transparent;
+}
+li{
+	font-size: 17px;
 }
