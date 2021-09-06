@@ -66,12 +66,13 @@ html{
 
 .navbar {
 	background-color: #4A235A;
+	height: 65px;
 }
 
 .nav-link {
 	font-weight: bold;
 	font-family: 'Roboto', sans-serif;
-	font-size: 20px;
+	font-size: 25px;
 }
 
 
